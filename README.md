@@ -1,2 +1,0 @@
-# Zona
-Zoneminder
